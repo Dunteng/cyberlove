@@ -7,7 +7,7 @@ export default function NotFound() {
   return (
     <div className="min-h-screen flex items-center justify-center flex-col">
       <DotLottieReact
-        src="https://lottie.host/b0a95dcd-e15a-4559-9399-e9383b138071/tCqL5RbsU1.lottie"
+        src='/lottie/Animation - 1739016345336.lottie'
         loop
         autoplay
       />
